@@ -1,5 +1,5 @@
 # Django REST Framework - UserRegistration-Authentication
-Django app to register and authenticate user using REST API framework.
+Django api to register and authenticate user using REST API framework.
 
 ## How to use:
   - `pip install -r requirements.txt`
